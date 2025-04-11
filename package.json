@@ -25,7 +25,7 @@
         "@inertiajs/vue3": "^1.0.2",
         "@jaames/iro": "^5.5.2",
         "@tiptap/core": "^2.2.3",
-        "@tiptap/extension-document": "^2.2.3",
+        "@tiptap/extension-document": "^2.11.5",
         "@tiptap/extension-history": "^2.2.3",
         "@tiptap/extension-link": "^2.11.5",
         "@tiptap/extension-placeholder": "^2.2.3",
